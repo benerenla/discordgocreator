@@ -1,3 +1,5 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/benerenla/discordgocreator/badge)](https://www.codefactor.io/repository/github/benerenla/discordgocreator)
+<div align="center">
+<img alt=""src="https://www.codefactor.io/repository/github/constani/backend-go/badge">
+</div>
 
 Discord Go Bot Template Creator.
